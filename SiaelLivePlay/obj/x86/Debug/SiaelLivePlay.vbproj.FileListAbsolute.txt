@@ -1,0 +1,31 @@
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.exe.config
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\Interop.WMLSS.dll
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.vbproj.ResolveComReference.cache
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.exe
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.pdb
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.xml
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.main.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.Resources.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.Player.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.vbproj.GenerateResource.Cache
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.exe
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.xml
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.pdb
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.exe.config
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\Interop.WMLSS.dll
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.vbproj.ResolveComReference.cache
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.exe
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.xml
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.pdb
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.exe
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.pdb
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\SiaelLivePlay.xml
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\bin\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.vbprojResolveAssemblyReference.cache
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.main.resources
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.Resources.resources
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.Player.resources
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\SiaelLivePlay\SiaelLivePlay\obj\x86\Debug\SiaelLivePlay.vbproj.GenerateResource.Cache
